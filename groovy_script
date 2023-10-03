@@ -2,7 +2,7 @@ pipeline {
               agent any
                              stages{
                                            stage('One'){
-                                                          echo 'Hi, this is Deepanshu from Protean'
+                                                          echo 'Hi, this is Atharva from Protean'
                                            }
                                            
                                            stage('Two'){
